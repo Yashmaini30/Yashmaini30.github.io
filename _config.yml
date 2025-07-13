@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yash Maini"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI/ML Engineer | MLOps + AWS | IEEE Author"
   location         : "New Delhi - India"
   employer         : "USAR GGSIPU"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dMtecmEAAAAJ&hl"
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
