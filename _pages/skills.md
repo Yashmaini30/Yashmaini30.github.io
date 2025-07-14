@@ -4,69 +4,36 @@ title: "Skills"
 permalink: /skills/
 ---
 
-<div class="skills-grid">
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    <span>Python</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
-    <span>TensorFlow</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
-    <span>Docker</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
-    <span>FastAPI</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
-    <span>Git</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-    <span>GitHub</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
-    <span>MySQL</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux">
-    <span>Linux</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS">
-    <span>AWS</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MLflow_Logo.png" alt="MLflow">
-    <span>MLflow</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://www.datocms-assets.com/2885/1620155118-terraform-logo.png" alt="Terraform">
-    <span>Terraform</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://grafana.com/static/assets/img/fav32.png" alt="Grafana">
-    <span>Grafana</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <span>JavaScript</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn">
-    <span>Scikit-learn</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" alt="Pandas">
-    <span>Pandas</span>
-  </div>
-  <div class="skill-card">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib">
-    <span>Matplotlib</span>
-  </div>
-</div>
+## 👨‍💻 Programming Languages
+- Python, SQL, Bash, Java, JavaScript
+
+## 📦 Libraries & Frameworks
+- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow, Keras
+- **Data Analysis & Visualization:** NumPy, Pandas, Matplotlib, Seaborn
+- **Web & APIs:** FastAPI, Flask
+
+## ☁️ Cloud & DevOps
+- **AWS Stack:** EC2, S3, Lambda, SageMaker, Bedrock, CloudWatch, IAM, CLI, CDK
+- Docker, GitHub Actions, Terraform
+- Linux, Git
+
+## 📊 Experimentation & MLOps Tools
+- MLflow, DVC, DagsHub
+- GitHub Actions (CI/CD), Docker, AWS ECR
+
+## 🧰 Databases
+- MongoDB, MySQL, PostgreSQL, SQLite
+
+## 🧠 Domains & Interests
+- Machine Learning, Deep Learning
+- MLOps & Model Deployment
+- Research Automation & Paper Reproducibility
+- Infra-as-Code (IaC), Cloud-Native ML Architectures
+- Image Classification & Medical Imaging
+- Transfer Learning, Hyperparameter Optimization (Bayesian, PBT)
+
+## 💡 Additional Strengths
+- Modular Project Structuring & Custom Internal Packaging
+- Cross-validation, Model Calibration (MC Dropout, Temp Scaling)
+- Production-Grade AWS Deployments (FastAPI, Lambda, S3+CloudFront)
+- Technical Blogging, Open-Source Contributions
