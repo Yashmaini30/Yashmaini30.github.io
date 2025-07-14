@@ -1,9 +1,9 @@
 ---
-layout: page
 title: "Skills"
+layout: single
 permalink: /skills/
+author_profile: true
 ---
-
 ## 👨‍💻 Programming Languages
 - Python, SQL, Bash, Java, JavaScript
 
