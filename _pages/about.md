@@ -13,8 +13,6 @@ I'm an undergraduate student pursuing B.Tech in AI & Machine Learning at GGSIPU,
 
 My projects range from achieving 97.23% accuracy in tomato leaf disease classification to developing serverless AI platforms with sub-2 second response times, demonstrating both research capability and practical engineering skills.
 
----
-
 ## Current Project
 
 ### 🏥 **AIIMS Project Collaboration**
@@ -24,8 +22,6 @@ Working under **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi** on automating **MP
 - **Approach**: ML/MLOps pipeline design with iterative development methodology
 - **Technology Stack**: Currently exploring optimal solutions for production deployment
 - **Impact**: Enhancing radiological data processing efficiency for clinical applications
-
----
 
 ## Navigate My Work
 
@@ -39,16 +35,12 @@ Working under **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi** on automating **MP
 | **[Achievements](/achievements/)** | Awards, certifications, and recognition |
 | **[CV](/cv/)** | Complete curriculum vitae **[PDF](/cv/resume.pdf)** |
 
----
-
 ## Recent Highlights
 
 - 🎯 **97.23% accuracy** achieved in tomato leaf disease classification using optimized Xception model
 - 🚀 **Production deployment** of serverless AI platforms with 99.9% availability
 - 📊 **MLOps expertise** demonstrated through containerized pipelines and automated CI/CD workflows
 - 🔬 **Research leadership** in medical imaging calibration and uncertainty quantification
-
----
 
 ## Let's Connect
 
@@ -58,7 +50,5 @@ Ready to collaborate on cutting-edge AI research or discuss MLOps strategies?
 - 📱 **[LinkedIn](https://www.linkedin.com/in/yash-maini-369869198)** - Professional network and updates  
 - 🧠 **[LeetCode](https://leetcode.com/u/yashmaini/)** - Problem-solving journey and algorithms
 - 📧 **[Email](mailto:mainiyash2@gmail.com)** - Direct communication for opportunities
-
----
 
 *"Building the future of AI through rigorous research and robust engineering"*
