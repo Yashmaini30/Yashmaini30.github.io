@@ -25,9 +25,8 @@ My projects range from achieving 97.23% accuracy in tomato leaf disease classifi
 
 ## Current Project
 
-**🏥 AIIMS Project Collaboration**
-<br>&nbsp;  
-Working under **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi** on automating **MP4-to-DICOM conversion** for radiology workflows:
+<p style="margin-bottom: 0.2rem;"><strong>🏥 AIIMS Project Collaboration</strong></p>
+<p>Working under <strong>Prof. Dr. Deepak Agrawal</strong> at <strong>AIIMS Delhi</strong> on automating <strong>MP4-to-DICOM conversion</strong> for radiology workflows:</p>
 
 - **Objective**: Streamline medical imaging workflows through automated format conversion
 - **Approach**: ML/MLOps pipeline design with iterative development methodology
