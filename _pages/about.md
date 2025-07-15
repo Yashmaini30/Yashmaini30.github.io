@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yash Maini"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
