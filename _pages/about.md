@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: null
-author_profile: false
+author_profile: true
 header:
   show_title: false
 ---
@@ -14,7 +14,7 @@ header:
 }
 .page__content {
   padding-top: 0 !important;
-  margin-top: -1.5rem !important;
+  margin-top: -3rem !important;
 }
 </style>
 ## About Me
