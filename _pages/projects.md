@@ -25,13 +25,14 @@ author_profile: true
 - Real-time **FastAPI endpoints** (`/train`, `/predict`) served on AWS EC2 with <15ms latency.
 - Tracked experiments and metrics using **MLflow + DagsHub**.
 
-## 🏥 AIIMS Project – MP4-to-DICOM Conversion Pipeline  
+## 🏥 MP4-to-DICOM Conversion Pipeline (For AIIMS Delhi)  
 **Tech Stack**: In progress (under evaluation)  
 _No public code or blog available yet_
 
-- Assigned under **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi**, working on automating the conversion of **MP4 videos to DICOM format** for radiology workflows.
-- Focused on **infrastructure design**, reproducibility, and scalable pipeline development.
-- Project aligns with **ICMR goals**, currently in the planning and evaluation phase.
+- Currently contributing to a project under the guidance of **Prof. Dr. Deepak Agrawal** (AIIMS Delhi), aimed at automating the conversion of **MP4 videos to DICOM format** for radiological workflows.
+- The project is designed to benefit radiology departments at **AIIMS**, aligning with broader clinical infrastructure goals.
+- Focused on **pipeline architecture**, tool selection, and reproducibility.
+- Currently in the **planning and prototyping phase**.
 
 ## 🌿 Tomato Leaf Disease Detection  
 **Tech Stack**: TensorFlow, Keras, Xception, Seaborn, Matplotlib  

@@ -5,14 +5,14 @@ permalink: /experience/
 author_profile: true
 ---
 
-## 🏥 AIIMS Delhi – Department of Neurosurgery  
-**Contributor (Assigned under Prof. Dr. Deepak Agrawal)**  
+## 🏥 MP4-to-DICOM Conversion (Under Prof. Dr. Deepak Agrawal, AIIMS Delhi)  
+**Contributor (Engineering-Driven Collaboration)**  
 *Jun 2025 – Present · New Delhi, India*
 
-- Working under **Prof. Dr. Deepak Agrawal** on an **engineering-driven project** aimed at automating **MP4-to-DICOM conversion** for radiology workflows.
-- Focusing on system-level design and integration for video-to-DICOM format transformation in clinical pipelines.
-- Exploring infrastructure, deployment, and reproducibility strategies to support scalable implementation.
-- The project aligns with **ICMR objectives** and is currently in the **initial design and prototyping phase**.
+- Working under the mentorship of **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi**, contributing to a project focused on automating **MP4-to-DICOM conversion** for radiology video workflows.
+- Engaged in system design and integration to support format transformation in clinical pipelines.
+- Evaluating tools for reproducibility, scalability, and infrastructure readiness.
+- Though not formally commissioned by AIIMS, the project is **intended to support AIIMS radiology departments** and aligns with **ICMR-oriented objectives**.
 
 ## 🔬 GGSIPU – University School of Automation and Robotics  
 **Undergraduate Research Associate**  
