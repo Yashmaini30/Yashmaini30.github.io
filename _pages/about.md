@@ -2,10 +2,9 @@
 layout: single
 permalink: /
 title: null
-author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+author_profile: true
+header:
+  show_title: false
 ---
 
 ## About Me
