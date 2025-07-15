@@ -6,15 +6,13 @@ author_profile: true
 ---
 
 ## 🏥 AIIMS Delhi – Department of Neurosurgery  
-**MLOps Engineer (Assigned under Prof. Dr. Deepak Agrawal)**  
+**Contributor (Assigned under Prof. Dr. Deepak Agrawal)**  
 *Jun 2025 – Present · New Delhi, India*
 
-- Contributing to an **engineering-driven project** focused on automating **MP4-to-DICOM conversion** for radiological video workflows.
-- Designing the system pipeline for **format transformation**, considering scalability and integration into hospital infrastructure.
-- Evaluating tools and platforms for reproducibility, storage, and deployment.
-- Project is aligned with **ICMR objectives**, currently in the **initial planning and infrastructure phase**.
-
----
+- Working under **Prof. Dr. Deepak Agrawal** on an **engineering-driven project** aimed at automating **MP4-to-DICOM conversion** for radiology workflows.
+- Focusing on system-level design and integration for video-to-DICOM format transformation in clinical pipelines.
+- Exploring infrastructure, deployment, and reproducibility strategies to support scalable implementation.
+- The project aligns with **ICMR objectives** and is currently in the **initial design and prototyping phase**.
 
 ## 🔬 GGSIPU – University School of Automation and Robotics  
 **Undergraduate Research Associate**  
@@ -26,8 +24,6 @@ author_profile: true
 - Achieved **97.23% accuracy** in tomato leaf disease detection using optimized Xception.
 - Enhanced breast tumor classification to **98.46%** using fine-tuned CNNs and Population-Based Training.
 - Currently leading a **journal-level study** involving MC Dropout and temperature scaling for calibrated predictions.
-
----
 
 ## 📊 M.K. Associates (Remote)  
 **Financial Data Analyst Intern**  
