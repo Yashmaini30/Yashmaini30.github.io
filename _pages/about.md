@@ -5,7 +5,21 @@ title: null
 author_profile: true
 header:
   show_title: false
+  overlay: false
 ---
+
+<style>
+.page-title, .page__title {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.page {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+</style>
+
 
 ## About Me
 
