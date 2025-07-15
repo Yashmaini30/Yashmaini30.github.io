@@ -2,25 +2,21 @@
 layout: single
 permalink: /
 title: null
-author_profile: true
+author_profile: false
 header:
   show_title: false
-  overlay: false
 ---
 
 <style>
-.page-title, .page__title {
-  display: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
 .page {
   padding-top: 0 !important;
   margin-top: 0 !important;
 }
+.page__content {
+  padding-top: 0 !important;
+  margin-top: -1.5rem !important;
+}
 </style>
-
-
 ## About Me
 
 I'm an undergraduate student pursuing B.Tech in AI & Machine Learning at GGSIPU, passionate about deep learning applications in healthcare and agriculture. Despite being early in my academic journey, I've already authored 2 IEEE publications and built production-ready MLOps systems deployed on AWS.
