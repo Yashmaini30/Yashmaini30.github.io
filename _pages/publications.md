@@ -15,8 +15,6 @@ author_profile: true
 - Combined hyperparameter tuning and fine-tuning for enhanced precision.
 - Applied transfer learning to automate agricultural leaf disease detection.
 
----
-
 ### 2. **Breast Tumor Classification with Fine-Tuned Hyperparameter Training Using Deep Learning Models**  
 **Yash Maini, Sanjay Kumar Singh, Pranshu Saxena**  
 📍 *IEEE AdSoc 5.0 2025 — Kolkata, India*  
@@ -26,6 +24,4 @@ author_profile: true
 - Applied **Population-Based Training** for hyperparameter optimization.
 - Addressed early detection challenges in breast cancer screening.
 
----
-
-> Visit [Projects](/projects/) to explore practical implementations, or check out [Blog](/blogs/) for in-depth technical walkthroughs.
+> Visit [Projects](/projects/) to explore practical implementations, or check out [Blogs](/blogs/) for in-depth technical walkthroughs.
