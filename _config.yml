@@ -13,7 +13,7 @@ title                    : "Yash Maini"
 title_separator          : "-"
 name                     : &name "Yash Maini"
 description              : &description "personal description"
-url                      : https://Yashmaini30.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://www.yashmaini.tech" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yashmaini30/Yashmaini30.github.io"
 
