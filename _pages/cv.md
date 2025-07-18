@@ -10,13 +10,26 @@ redirect_from:
 ---
 
 <style>
-.page {
+.page, .page__content {
   padding-top: 0 !important;
   margin-top: 0 !important;
 }
-.page__content {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
+.embed-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  max-height: 900px;
+  overflow: hidden;
+}
+.embed-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+@media screen and (max-width: 768px) {
+  .embed-container {
+    height: 90vh;
+  }
 }
 </style>
 
@@ -26,8 +39,8 @@ redirect_from:
   Resume
 </div>
 
-<div style="display: flex; justify-content: center;">
-  <img src="{{ base_path }}/files/YashMaini_MLOPs_Research.jpg" alt="Yash Maini Resume" style="max-width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.05);">
+<div class="embed-container">
+  <iframe src="{{ base_path }}/files/YashMaini_MLOPs_Research.pdf#view=FitH"></iframe>
 </div>
 
 <p style="text-align: center; margin-top: 1rem;">
