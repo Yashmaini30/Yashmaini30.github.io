@@ -1,11 +1,24 @@
 ---
 layout: single
-title: "Resume"
 permalink: /cv/
+title: null
 author_profile: true
+header:
+  show_title: false
 redirect_from:
   - /resume
 ---
+
+<style>
+.page {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+.page__content {
+  padding-top: 0 !important;
+  margin-top: -3rem !important;
+}
+</style>
 
 {% include base_path %}
 
