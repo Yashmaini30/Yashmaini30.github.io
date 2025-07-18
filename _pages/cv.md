@@ -16,7 +16,7 @@ redirect_from:
 }
 .page__content {
   padding-top: 0 !important;
-  margin-top: -3rem !important;
+  margin-top: 0 !important;
 }
 </style>
 
