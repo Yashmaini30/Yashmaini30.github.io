@@ -41,9 +41,9 @@ My projects range from achieving 97.23% accuracy in tomato leaf disease classifi
 | **[Publications](/publications/)** | 2× IEEE research papers and conference contributions |
 | **[Experience](/experience/)** | Academic projects and internship experiences |
 | **[Skills](/skills/)** | Technical expertise in ML, MLOps, and cloud technologies |
-| **[Blogs](/blog/)** | Technical insights and implementation guides |
+| **[Blogs](/blogs/)** | Technical insights and implementation guides |
 | **[Achievements](/achievements/)** | Awards, certifications, and recognition |
-| **[CV](/cv/)** | Complete curriculum vitae **[PDF](/cv/resume.pdf)** |
+| **[CV](/cv/)** | Complete Resume |
 
 ## Recent Highlights
 
