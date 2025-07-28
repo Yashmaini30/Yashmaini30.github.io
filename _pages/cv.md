@@ -40,9 +40,9 @@ redirect_from:
 </div>
 
 <div class="embed-container">
-  <iframe src="{{ base_path }}/files/YashMaini_MLOPs_Research.pdf#view=FitH"></iframe>
+  <iframe src="{{ base_path }}/files/Resume.pdf#view=FitH"></iframe>
 </div>
 
 <p style="text-align: center; margin-top: 1rem;">
-  👉 <a href="{{ base_path }}/files/YashMaini_MLOPs_Research.pdf" download><strong>Download Resume (PDF)</strong></a>
+  👉 <a href="{{ base_path }/files/Resume.pdf.pdf" download><strong>Download Resume (PDF)</strong></a>
 </p>
