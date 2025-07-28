@@ -44,5 +44,5 @@ redirect_from:
 </div>
 
 <p style="text-align: center; margin-top: 1rem;">
-  👉 <a href="{{ base_path }/files/Resume.pdf.pdf" download><strong>Download Resume (PDF)</strong></a>
+  👉 <a href="{{ base_path }}/files/Resume.pdf.pdf" download><strong>Download Resume (PDF)</strong></a>
 </p>
