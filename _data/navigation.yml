@@ -20,8 +20,8 @@ main:
   - title: "Skills"
     url: /skills/          
 
-  - title: "Demo Videos"
-    url: /demos/          
+  # - title: "Demo Videos"
+  #   url: /demos/          
 
   - title: "Blogs"
     url: /blogs/          
