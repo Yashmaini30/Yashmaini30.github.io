@@ -17,48 +17,55 @@ header:
   margin-top: -3rem !important;
 }
 </style>
+
 ## About Me
 
-I'm an undergraduate student pursuing B.Tech in AI & Machine Learning at GGSIPU, passionate about deep learning applications in healthcare and agriculture. Despite being early in my academic journey, I've already authored 2 IEEE publications and built production-ready MLOps systems deployed on AWS.
+I'm Yash Maini, an undergraduate AI and ML student at GGSIPU who is interested in the convergence of research and production-grade engineering. I work on the entire AI stack, from model creation and medical imaging research to MLOps, cloud infrastructure, and scalable deployment pipelines.
 
-My projects range from achieving 97.23% accuracy in tomato leaf disease classification to developing serverless AI platforms with sub-2 second response times, demonstrating both research capability and practical engineering skills.
+My work has resulted in two IEEE research papers and various applicable systems, such as full-stack ML deployments and healthcare AI tools.
 
-## Current Project
+---
 
-<p style="margin-bottom: 0.2rem;"><strong>🏥 MP4-to-DICOM Project (Mentored by Prof. Dr. Deepak Agrawal, AIIMS Delhi)</strong></p>
-<p>Contributing to an engineering-driven pipeline under the guidance of <strong>Prof. Dr. Deepak Agrawal</strong> at <strong>AIIMS Delhi</strong>, aimed at automating <strong>MP4-to-DICOM conversion</strong> for radiology workflows:</p>
+## Currently Working On
 
-- **Objective**: Streamline medical imaging workflows through automated video-to-DICOM conversion  
-- **Approach**: System design and iterative MLOps pipeline development  
-- **Technology Stack**: Currently evaluating tools for reproducibility and production deployment  
-- **Context**: While not formally assigned by AIIMS, the project is intended to aid radiological infrastructure at the institute and aligns with **ICMR priorities**
+### MP4-to-DICOM Conversion — AIIMS Delhi  
+**Mentor**: Prof. Dr. Deepak Agrawal (Neurosurgery)
 
-## Navigate My Work
+Developing a DICOM automation pipeline for radiological video data, focused on reproducibility, compliance, and integration with clinical workflows. While independently initiated, the project is aligned with ICMR objectives and built in collaboration with the AIIMS Delhi clinical research ecosystem.
+
+---
+
+## Key Focus Areas
+
+- Applied AI in healthcare and diagnostics  
+- MLOps and full-lifecycle model infrastructure  
+- AWS-native deployment (SageMaker, Lambda, CDK)  
+- Model evaluation: calibration, uncertainty quantification  
+- Medical imaging, DICOM workflows, and reproducible pipelines
+
+---
+
+## Learn More
+
+Explore detailed sections below:
 
 | Section | Description |
 |---------|-------------|
-| **[Projects](/projects/)** | End-to-end ML pipelines and production systems |
-| **[Publications](/publications/)** | 2× IEEE research papers and conference contributions |
-| **[Experience](/experience/)** | Academic projects and internship experiences |
-| **[Skills](/skills/)** | Technical expertise in ML, MLOps, and cloud technologies |
-| **[Blogs](/blogs/)** | Technical insights and implementation guides |
-| **[Achievements](/achievements/)** | Awards, certifications, and recognition |
-| **[CV](/cv/)** | Complete Resume |
+| [**Projects**](/projects/) | Applied systems, ML pipelines, dev tools |
+| [**Publications**](/publications/) | IEEE research contributions |
+| [**Experience**](/experience/) | Research, internships, collaborations |
+| [**Skills**](/skills/) | Technical stack & toolkits |
+| [**Blogs**](/blogs/) | Implementation notes & deep dives |
+| [**Achievements**](/achievements/) | certifications and recognitions |
+| [**CV**](/cv/) | Full PDF resume |
 
-## Recent Highlights
+---
 
-- 🎯 **97.23% accuracy** achieved in tomato leaf disease classification using optimized Xception model
-- 🚀 **Production deployment** of serverless AI platforms with 99.9% availability
-- 📊 **MLOps expertise** demonstrated through containerized pipelines and automated CI/CD workflows
-- 🔬 **Research leadership** in medical imaging calibration and uncertainty quantification
+## Contact
 
-## Let's Connect
+For collaborations, internships, or project discussions:  
+📧 [mainiyash2@gmail.com](mailto:mainiyash2@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-maini-369869198)  
+💻 [GitHub](https://github.com/Yashmaini30)
 
-Ready to collaborate on cutting-edge AI research or discuss MLOps strategies?
-
-- 🔗 **[GitHub](https://github.com/Yashmaini30)** - Explore my open-source contributions
-- 📱 **[LinkedIn](https://www.linkedin.com/in/yash-maini-369869198)** - Professional network and updates  
-- 🧠 **[LeetCode](https://leetcode.com/u/yashmaini/)** - Problem-solving journey and algorithms
-- 📧 **[Email](mailto:mainiyash2@gmail.com)** - Direct communication for opportunities
-
-*"Building the future of AI through rigorous research and robust engineering"*
+---
