@@ -24,16 +24,12 @@ I'm Yash Maini, an undergraduate AI and ML student at GGSIPU who is interested i
 
 My work has resulted in two IEEE research papers and various applicable systems, such as full-stack ML deployments and healthcare AI tools.
 
----
-
 ## Currently Working On
 
 ### MP4-to-DICOM Conversion — AIIMS Delhi  
 **Mentor**: Prof. Dr. Deepak Agrawal (Neurosurgery)
 
 Developing a DICOM automation pipeline for radiological video data, focused on reproducibility, compliance, and integration with clinical workflows. While independently initiated, the project is aligned with ICMR objectives and built in collaboration with the AIIMS Delhi clinical research ecosystem.
-
----
 
 ## Key Focus Areas
 
@@ -42,8 +38,6 @@ Developing a DICOM automation pipeline for radiological video data, focused on r
 - AWS-native deployment (SageMaker, Lambda, CDK)  
 - Model evaluation: calibration, uncertainty quantification  
 - Medical imaging, DICOM workflows, and reproducible pipelines
-
----
 
 ## Learn More
 
@@ -59,13 +53,9 @@ Explore detailed sections below:
 | [**Achievements**](/achievements/) | certifications and recognitions |
 | [**CV**](/cv/) | Full PDF resume |
 
----
-
 ## Contact
 
 For collaborations, internships, or project discussions:  
 📧 [mainiyash2@gmail.com](mailto:mainiyash2@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yash-maini-369869198)  
 💻 [GitHub](https://github.com/Yashmaini30)
-
----
