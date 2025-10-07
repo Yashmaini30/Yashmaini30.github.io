@@ -10,7 +10,7 @@ author_profile: true
 *Jul 2025 – Sep 2025 · New Delhi, India*
 
 - Architected and deployed an end-to-end video-to-DICOM pipeline using **Python**, **PostgreSQL**, and **Dockerized microservices** integrated with **Orthanc PACS**.
-- Achieved **95\% workflow automation** and **near-real-time processing ($\approx$30s per video)**, significantly improving medical-image processing efficiency and clinical readiness.
+- Achieved **95% workflow automation** and **near-real-time processing (approx 30s per video)**, significantly improving medical-image processing efficiency and clinical readiness.
 - Completed the research project which was recognized as a significant step toward improving medical-image processing within AIIMS' digital-health research environment.
 
 ## 💻 IBM SkillsBuild | Agentic AI: From Learner to Builder
