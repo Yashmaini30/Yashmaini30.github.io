@@ -5,18 +5,24 @@ permalink: /experience/
 author_profile: true
 ---
 
-## 🏥 MP4-to-DICOM Conversion (Under Prof. Dr. Deepak Agrawal, AIIMS Delhi)  
-**Contributor (Engineering-Driven Collaboration)**  
-*Jun 2025 – Present · New Delhi, India*
+## 🏥 DICOM Automation Service (Under Prof. Dr. Deepak Agrawal, AIIMS Delhi)
+**Research Collaborator**
+*Jul 2025 – Sep 2025 · New Delhi, India*
 
-- Working under the mentorship of **Prof. Dr. Deepak Agrawal** at **AIIMS Delhi**, contributing to a project focused on automating **MP4-to-DICOM conversion** for radiology video workflows.
-- Engaged in system design and integration to support format transformation in clinical pipelines.
-- Evaluating tools for reproducibility, scalability, and infrastructure readiness.
-- Though not formally commissioned by AIIMS, the project is **intended to support AIIMS radiology departments** and aligns with **ICMR-oriented objectives**.
+- Architected and deployed an end-to-end video-to-DICOM pipeline using **Python**, **PostgreSQL**, and **Dockerized microservices** integrated with **Orthanc PACS**.
+- Achieved **95\% workflow automation** and **near-real-time processing ($\approx$30s per video)**, significantly improving medical-image processing efficiency and clinical readiness.
+- Completed the research project which was recognized as a significant step toward improving medical-image processing within AIIMS' digital-health research environment.
+
+## 💻 IBM SkillsBuild | Agentic AI: From Learner to Builder
+**AI Agent Architect Training Program**
+*Jul 2025 – Aug 2025 · Remote*
+
+- Completed a 4-week intensive training program on **Agentic AI** and **AI Agent Architecture** with the CSRBOX Foundation.
+- Gained hands-on experience in building and implementing production-ready AI agents using the **Gemini API**.
 
 ## 🔬 GGSIPU – University School of Automation and Robotics  
 **Undergraduate Research Associate**  
-*Jul 2024 – Present · New Delhi, India*  
+*Jul 2024 – Jun 2025 · New Delhi, India*  
 **Mentors**: Dr. Sanjay Kumar Singh (GGSIPU), Dr. Pranshu Saxena (Bennett University)
 
 - Conducted deep learning research in **medical and agricultural imaging**.
