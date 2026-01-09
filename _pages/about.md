@@ -26,18 +26,19 @@ My work has resulted in two IEEE research papers and various applicable systems,
 
 ## Currently Working On
 
-### MP4-to-DICOM Conversion — AIIMS Delhi  
-**Mentor**: Prof. Dr. Deepak Agrawal (Neurosurgery)
+### 💼 NetoAI — SDE-1 Intern (AI/ML & LLM)
+**Position**: SDE-1 Intern (AI/ML & LLM)  
+*Jan 2026 - Present · Remote*
 
-Developing a DICOM automation pipeline for radiological video data, focused on reproducibility, compliance, and integration with clinical workflows. While independently initiated, the project is aligned with ICMR objectives and built in collaboration with the AIIMS Delhi clinical research ecosystem.
+Working on cutting-edge AI/ML solutions and Large Language Model applications, contributing to production-grade systems and scalable AI infrastructure.
 
 ## Experience
 
-### 💼 NetoAI  
-**SDE-1 Intern (AI/ML & LLM)**  
-*Jan 2026 - Present · 1 mo · Remote*
+### 🏥 MP4-to-DICOM Conversion — AIIMS Delhi  
+**Mentor**: Prof. Dr. Deepak Agrawal (Neurosurgery)  
+*Completed*
 
-Currently working as an SDE-1 Intern specializing in AI/ML and Large Language Models, contributing to cutting-edge AI solutions and production systems.
+Developed a DICOM automation pipeline for radiological video data, focused on reproducibility, compliance, and integration with clinical workflows. While independently initiated, the project was aligned with ICMR objectives and built in collaboration with the AIIMS Delhi clinical research ecosystem.
 
 ---
 
