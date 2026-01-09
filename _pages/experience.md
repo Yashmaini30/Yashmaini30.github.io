@@ -5,6 +5,14 @@ permalink: /experience/
 author_profile: true
 ---
 
+## 💼 NetoAI
+**SDE-1 Intern (AI/ML & LLM)**  
+*Jan 2026 - Present · 1 mo · Remote*
+
+- Working as an SDE-1 Intern specializing in AI/ML and Large Language Models.
+- Contributing to cutting-edge AI solutions and production-grade systems.
+- Developing and deploying AI/ML models and LLM-based applications.
+
 ## 🏥 DICOM Automation Service (Under Prof. Dr. Deepak Agrawal, AIIMS Delhi)
 **Research Collaborator**
 *Jul 2025 – Sep 2025 · New Delhi, India*

@@ -31,6 +31,16 @@ My work has resulted in two IEEE research papers and various applicable systems,
 
 Developing a DICOM automation pipeline for radiological video data, focused on reproducibility, compliance, and integration with clinical workflows. While independently initiated, the project is aligned with ICMR objectives and built in collaboration with the AIIMS Delhi clinical research ecosystem.
 
+## Experience
+
+### 💼 NetoAI  
+**SDE-1 Intern (AI/ML & LLM)**  
+*Jan 2026 - Present · 1 mo · Remote*
+
+Currently working as an SDE-1 Intern specializing in AI/ML and Large Language Models, contributing to cutting-edge AI solutions and production systems.
+
+---
+
 ## Key Focus Areas
 
 - Applied AI in healthcare and diagnostics  
